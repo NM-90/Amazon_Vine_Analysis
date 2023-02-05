@@ -3,7 +3,7 @@ Big Data/Colab/SQL/Python
 
 ## Overview/Purpose
 
-I will analyze Amazon reviews written by member of the paid Amazon Vine program.  Manufacturers and publishers pay a small fee to Amazon to sell their products and in return receive product reviews.  I will explore the pet product data set using Colab, PySpark, SQL (PGAdmin), Python, and AWS by performing ETL. The results should show whether there is any bias toward favorable reviews from Vine members.    
+I will analyze Amazon reviews written by members of the paid Amazon Vine program.  Manufacturers and publishers pay a small fee to Amazon to sell their products and in return receive product reviews.  I will explore the pet product data set using Colab, PySpark, SQL (PGAdmin), Python, and AWS by performing ETL. The results should show whether there is any bias toward favorable reviews from Vine members.    
 
 ## Results
 
